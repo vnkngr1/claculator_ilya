@@ -1,0 +1,3 @@
+/Users/ivangarsin/Downloads/claculator_ilya/cmake-build-debug/CMakeFiles/claculator_ilya.dir
+/Users/ivangarsin/Downloads/claculator_ilya/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ivangarsin/Downloads/claculator_ilya/cmake-build-debug/CMakeFiles/rebuild_cache.dir
